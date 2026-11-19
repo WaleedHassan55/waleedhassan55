@@ -1,111 +1,126 @@
 # Hi, I'm Waleed Hassan 👋
 
-### Data Engineer | Azure | Databricks | Microsoft Fabric | Python | SQL | PySpark
+I'm a **Data Engineer** with 2+ years of experience building and supporting data platforms and engineering pipelines using **Microsoft Azure, Azure Databricks, Microsoft Fabric, Apache Spark, PySpark, SQL and Delta Lake**.
 
-I'm a Data Engineer passionate about building scalable data platforms, developing reliable ETL/ELT pipelines, and transforming raw data into analytics-ready datasets.
+My work focuses on end-to-end data engineering, including data ingestion, ETL/ELT development, transformation, pipeline orchestration, data quality and dimensional modelling. I have hands-on experience with the **Medallion Architecture (Bronze, Silver and Gold)** and building reliable, maintainable pipelines that deliver analytics-ready datasets.
 
-My focus is on modern cloud data engineering, Lakehouse architecture, distributed data processing, data modelling and automation.
-
-I enjoy working with technologies that help organisations build reliable, scalable and maintainable data solutions.
+I'm particularly interested in cloud data engineering, Lakehouse architecture and modern data technologies.
 
 ---
 
-## 🚀 About Me
-
-- 💻 Working with Azure Databricks, Microsoft Fabric and Apache Spark.
-- ⚙️ Developing end-to-end ETL/ELT pipelines using Python, PySpark and SQL.
-- 🏗️ Implementing Medallion Architecture (Bronze, Silver and Gold).
-- 🔄 Working with Delta Lake, incremental processing and data quality.
-- 📊 Developing dimensional models and analytics-ready datasets.
-- ☁️ Exploring cloud data platforms, DataOps and infrastructure automation.
-- 🎓 BSc (Hons) Computer Science with Artificial Intelligence – First Class Honours, University of Huddersfield.
-
----
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming & Data Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+- Python
+- SQL
+- PySpark
+- Apache Spark
 
-### Cloud & Data Engineering
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+### Cloud Platforms & Data Services
+- Microsoft Azure
+- Azure Data Lake Storage Gen2 (ADLS Gen2)
+- Azure Synapse Analytics
+- Microsoft Fabric
+- Fabric Warehouse
+- Azure Event Hubs
+- Azure Cosmos DB
+
+### Data Engineering & Lakehouse
+- Azure Databricks
+- Delta Lake
+- Medallion Architecture (Bronze, Silver and Gold)
+- Unity Catalog
+- Auto Loader
+- Delta MERGE
+- Incremental Processing
+- Databricks Workflows
+- Lakeflow
 
 ### Data Integration & Orchestration
 - Azure Data Factory
-- ADLS Gen2
-- Azure Event Hubs
-- Azure Cosmos DB
-- Databricks Workflows
-- Lakeflow
-- Auto Loader
+- ETL/ELT Pipelines
+- Data Ingestion
+- Pipeline Monitoring
+- Pipeline Retry and Failure Handling
+- Source-to-Target Mapping
 
 ### Data Modelling & Analytics
-- Medallion Architecture
-- Kimball Dimensional Modelling
-- Star Schema
+- Kimball Star Schema
+- Fact and Dimension Tables
 - Slowly Changing Dimensions (SCD Type 2)
 - Power BI
-- Fabric Warehouse
+- Semantic Models
+- Fabric Direct Lake
+
+### Data Quality & Governance
+- Data Validation
+- Source-to-Target Reconciliation
+- Data Lineage
+- Role-Based Access Control (RBAC)
+- Microsoft Purview
+- Azure Key Vault
 
 ### DevOps & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+- Git
+- Azure DevOps
+- CI/CD
+- Terraform
+- Databricks Asset Bundles
+- dbt
+
+### Monitoring & Optimisation
+- Azure Monitor
+- Spark Partitioning
+- Caching
+- Broadcast Joins
+- OPTIMIZE
+- VACUUM
+- SQL Query Optimisation
 
 ---
 
-## 📌 Featured Projects
+## Selected Projects
 
-### 1. Retail Data Platform – End-to-End Data Engineering Solution
+### Retail Data Platform – End-to-End Data Engineering Solution
 
-An end-to-end retail data engineering project focused on building a structured Lakehouse platform.
+An end-to-end retail data engineering platform developed using Azure Databricks, PySpark, Apache Spark, Python, SQL and Delta Lake.
 
-**Key Features:**
-- Implemented Bronze, Silver and Gold architecture.
-- Developed data ingestion and transformation pipelines.
-- Worked with PySpark, SQL and Delta Lake.
-- Implemented incremental processing and Delta MERGE.
-- Applied SCD Type 2 for historical data tracking.
-- Organised reusable Python components and configuration files.
-- Implemented data quality and validation processes.
+**Key features:**
+- Implemented Medallion Architecture with Bronze, Silver and Gold layers.
+- Developed ETL pipelines to ingest, clean, transform and process retail data.
+- Applied incremental processing and Delta Lake MERGE operations to manage data updates.
+- Implemented dimensional modelling and Slowly Changing Dimension Type 2 (SCD Type 2).
+- Added data-quality checks and validation across pipeline stages.
+- Structured the code using reusable Python utilities and configuration files.
 
-**Technologies:** Azure Databricks, Python, PySpark, SQL, Apache Spark, Delta Lake.
-
-🔗 [View Repository](https://github.com/WaleedHassan55/retail_data_platform)
+**Technologies:** Azure Databricks, PySpark, Apache Spark, Python, SQL, Delta Lake and Medallion Architecture.
 
 ---
 
-## 📈 Engineering Impact
+## Professional Interests
 
-Selected engineering and reporting outcomes from my professional experience:
-
-| Area | Outcome |
-|---|---|
-| Spark pipeline optimisation | ~40% reduction in processing time |
-| SQL query optimisation | ~20% improvement in reporting performance |
-| Dimensional data modelling | ~30% reduction in reporting latency |
-| Power BI development | 20+ dashboards delivered |
-| Reporting automation | ~60% reduction in manual effort |
-| CI/CD implementation | ~40% reduction in deployment-related errors |
+- Cloud Data Engineering
+- Lakehouse Architecture
+- Building scalable ETL/ELT pipelines
+- Data Platform Design
+- Distributed Data Processing
+- Data Modelling and Analytics Engineering
+- DataOps and CI/CD
+- AI-enabled Data Solutions
+- Machine Learning and Retrieval-oriented Workflows
 
 ---
 
-## 🎓 Education
+## Education
 
-**University of Huddersfield**
+**The University of Huddersfield**
 
 BSc (Hons) Computer Science with Artificial Intelligence  
-First Class Honours | 2022 – 2025
+First Class Honours | 2022–2025
 
 ---
 
-## 📜 Certifications
+## Certifications & Learning
 
 - Data Ingestion with Lakeflow Connect – Knowledge Badge
 - Foundation of Artificial Intelligence with Machine Learning
@@ -113,14 +128,8 @@ First Class Honours | 2022 – 2025
 
 ---
 
-## 🤝 Connect With Me
+## Connect with Me
 
-I'm always interested in connecting with Data Engineers, technology professionals and people working on interesting data engineering challenges.
+- **LinkedIn:** [linkedin.com/in/waleedhassan05](https://www.linkedin.com/in/waleedhassan05)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleedhassan05)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whassan2855@gmail.com)
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+I'm always keen to connect with Data Engineers, technology professionals and organisations working on interesting data engineering challenges.
