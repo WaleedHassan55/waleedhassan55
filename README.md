@@ -1,10 +1,6 @@
 Hi, I'm Waleed Hassan 👋
 Data Engineer | Azure | Databricks | Microsoft Fabric | Python | SQL | PySpark
-I'm a **Data Engineer** with 2+ years of experience building and supporting data platforms and engineering pipelines using **Microsoft Azure, Azure Databricks, Microsoft Fabric, Apache Spark, PySpark, SQL and Delta Lake**.
-
-My work focuses on end-to-end data engineering, including data ingestion, ETL/ELT development, transformation, pipeline orchestration, data quality and dimensional modelling. I have hands-on experience with the **Medallion Architecture (Bronze, Silver and Gold)** and building reliable, maintainable pipelines that deliver analytics-ready datasets.
-
-I'm particularly interested in cloud data engineering, Lakehouse architecture and modern data technologies.
+I'm a Data Engineer passionate about building scalable data platforms, developing reliable ETL/ELT pipelines, and transforming raw data into analytics-ready datasets.
 
 My focus is on modern cloud data engineering, Lakehouse architecture, distributed data processing, data modelling and automation.
 
