@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Waleed Hassan 👋
 
-### Data Engineer | Azure | Databricks | Microsoft Fabric | Python | SQL | PySpark
 
 I'm a **Data Engineer** with 2+ years of experience building and supporting data platforms and engineering pipelines using **Microsoft Azure, Azure Databricks, Microsoft Fabric, Apache Spark, PySpark, SQL and Delta Lake**.
 
